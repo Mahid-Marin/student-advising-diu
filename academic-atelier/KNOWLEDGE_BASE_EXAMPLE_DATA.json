@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "title": "Academic Integrity Policy",
+    "category": "POLICY",
+    "tags": ["Policy", "Ethics", "Important"],
+    "content": "All submitted work must be original. Plagiarism is strictly prohibited and will result in serious academic penalties including loss of grade or course failure. Students are required to cite all sources properly using APA or MLA format as specified by their instructor. Paraphrasing must be properly cited with quotation marks around direct quotes. Collaboration is allowed only when explicitly permitted by the instructor. Buying papers, using AI to write assignments (unless specifically allowed), or submitting work from previous courses without permission are all violations of academic integrity policy.",
+    "created_at": "2024-04-18T08:00:00Z",
+    "updated_at": "2024-04-18T08:00:00Z"
+  },
+  {
+    "id": 2,
+    "title": "Grade Appeal Process",
+    "category": "FAQ",
+    "tags": ["Grades", "Process", "Appeals"],
+    "content": "Students may appeal grades within 14 days of release through the formal appeals process. Submit a written request to your department head with supporting evidence explaining why you believe the grade is incorrect. Include specific assignments or exam answers you believe were incorrectly graded. The appeals committee will review your request within 10 business days and either confirm, modify, or reverse the original grade. Note that appeals are based on grading errors, not subjective preferences about grades.",
+    "created_at": "2024-04-18T08:00:00Z",
+    "updated_at": "2024-04-18T08:00:00Z"
+  },
+  {
+    "id": 3,
+    "title": "CS101 Course Overview",
+    "category": "COURSE_INFO",
+    "tags": ["CS", "Python", "Beginner"],
+    "content": "Introduction to Python programming is designed for students with no prior programming experience. The course covers fundamental concepts including variables, data types, control flow (if statements and loops), functions, and basic data structures (lists, dictionaries, sets). Students will write numerous programs from simple scripts to larger projects. Prerequisites: None. This course prepares students for advanced programming courses in web development, data science, or software engineering.",
+    "created_at": "2024-04-18T08:00:00Z",
+    "updated_at": "2024-04-18T08:00:00Z"
+  },
+  {
+    "id": 4,
+    "title": "Research Protocol Guidelines",
+    "category": "RESEARCH_PROTOCOL",
+    "tags": ["Research", "IRB", "Ethics"],
+    "content": "All research involving human subjects requires IRB (Institutional Review Board) approval before any data collection begins. Submit your research proposal at least 4 weeks before your planned data collection start date. Your proposal must include: research objectives and hypotheses, detailed methodology, sample size justification, informed consent forms, potential risks to participants, and measures to protect participant privacy. The IRB may request revisions before approval. Failure to obtain approval can result in disciplinary action.",
+    "created_at": "2024-04-18T08:00:00Z",
+    "updated_at": "2024-04-18T08:00:00Z"
+  },
+  {
+    "id": 5,
+    "title": "Scholarship Application Guide",
+    "category": "FAQ",
+    "tags": ["Scholarship", "Finance", "Money"],
+    "content": "Merit scholarships are awarded annually based on demonstrated academic achievement (GPA), extracurricular activities, volunteer work, and essay quality. Applications are due March 31 each year through the student portal. To remain eligible for renewal, maintain a minimum 3.0 GPA and complete at least 12 service hours per semester. Multiple scholarships can be stacked to increase total aid. Contact the Financial Aid office if you have questions about scholarship amounts or eligibility requirements.",
+    "created_at": "2024-04-18T08:00:00Z",
+    "updated_at": "2024-04-18T08:00:00Z"
+  },
+  {
+    "id": 6,
+    "title": "Attendance Requirements",
+    "category": "POLICY",
+    "tags": ["Attendance", "Policy", "Classes"],
+    "content": "Students must attend at least 75% of scheduled classes to be eligible to sit for examinations. Medical absences require documentation (doctor's note) submitted within 3 days of absence. Excessive unexcused absences may result in automatic course withdrawal without refund. Approved absences (documented illness, family emergency, university-sponsored event) do not count toward the absence limit. A single tardy after 15 minutes counts as half an absence. Check your syllabus for specific instructor attendance policies.",
+    "created_at": "2024-04-18T08:00:00Z",
+    "updated_at": "2024-04-18T08:00:00Z"
+  },
+  {
+    "id": 7,
+    "title": "Database Systems Syllabus",
+    "category": "COURSE_INFO",
+    "tags": ["DB", "SQL", "Advanced"],
+    "content": "A comprehensive course covering relational database design and implementation. Topics include entity-relationship modeling, database normalization (1NF through 3NF), SQL (DDL and DML), indexing strategies, transaction processing, and query optimization. The course includes a hands-on semester-long project where students design and build a complete multi-table database application with a backend service layer. Prerequisites: CS101 or equivalent programming experience.",
+    "created_at": "2024-04-18T08:00:00Z",
+    "updated_at": "2024-04-18T08:00:00Z"
+  },
+  {
+    "id": 8,
+    "title": "Thesis Submission Format",
+    "category": "RESEARCH_PROTOCOL",
+    "tags": ["Thesis", "Format", "Writing"],
+    "content": "All theses must adhere to strict formatting guidelines for acceptance: Font must be 12pt Times New Roman, text must be double-spaced with 1-inch margins on all sides. Include a title page, abstract (200-300 words), table of contents, chapters, bibliography, and appendices. All citations must follow your department's required format (APA, MLA, or Chicago). Submit both a digital PDF and one hard copy, bound. Your advisor must approve format before final submission. Late submissions forfeit graduation eligibility for that semester.",
+    "created_at": "2024-04-18T08:00:00Z",
+    "updated_at": "2024-04-18T08:00:00Z"
+  }
+]
